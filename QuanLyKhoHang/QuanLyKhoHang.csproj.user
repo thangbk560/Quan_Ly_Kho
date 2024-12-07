@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="view\DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\F_HH_Sua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\F_HH_Them.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\F_NV_Sua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\F_NV_Them.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\F_PN_Sua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\F_PN_Them.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\F_PX_Sua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\F_PX_Them.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\pnlHangHoa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="view\pnlNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="view\pnlPhieuNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="view\pnlPhieuXuat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="view\TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\pnlViTriHangHoa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
